@@ -1,0 +1,100 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Angles"] = Angle(87.630744934082, 0.00011100846313639, 1.2000000476837),
+						["UniqueID"] = "2951328292",
+						["Material"] = "https://raw.githubusercontent.com/Unknow77/Noting-/master/Your%20are%20below%20me.png",
+						["Position"] = Vector(4.2263793945313, -1.53759765625, 46.67822265625),
+						["Bone"] = "invalidbone",
+						["Model"] = "models/hunter/plates/plate1x1.mdl",
+						["Scale"] = Vector(1.8999999761581, 1, 4.0999999046326),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "489483364",
+				["Event"] = "is_voice_chatting",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "3174080794",
+		["ClassName"] = "group",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Angles"] = Angle(85.638290405273, 37.252304077148, 35.369281768799),
+						["UniqueID"] = "710295330",
+						["Material"] = "https://raw.githubusercontent.com/Unknow77/Noting-/master/Kawaii.png",
+						["Position"] = Vector(10.212158203125, -1.132568359375, 50.175849914551),
+						["Bone"] = "invalidbone",
+						["Model"] = "models/hunter/plates/plate1x1.mdl",
+						["Scale"] = Vector(2.0999999046326, 1.1000000238419, 2.5999999046326),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "3134435581",
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "2882469112",
+		["ClassName"] = "group",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(86.442810058594, 32.275024414063, 29.665258407593),
+				["UniqueID"] = "1034842901",
+				["Material"] = "https://raw.githubusercontent.com/Unknow77/Noting-/master/Default.png",
+				["Position"] = Vector(5.6262817382813, -0.82373046875, 47.466522216797),
+				["Bone"] = "invalidbone",
+				["Model"] = "models/hunter/plates/plate1x1.mdl",
+				["Scale"] = Vector(2, 1, 1),
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Alpha"] = 0,
+				["ClassName"] = "entity",
+				["UniqueID"] = "3941409672",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2292035891",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
